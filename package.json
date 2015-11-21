@@ -1,0 +1,19 @@
+{
+  "name": "phys_game",
+  "version": "1.0.0",
+  "description": "phys_game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/v-shmyhlo/phys_game.git"
+  },
+  "author": "v-shmyhlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-shmyhlo/phys_game/issues"
+  },
+  "homepage": "https://github.com/v-shmyhlo/phys_game#readme"
+}
